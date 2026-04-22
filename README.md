@@ -1,6 +1,6 @@
 # Trabalho-de-POO
 
-# 🏦 Sistema de Caixa Eletrônico (ATM) em Python
+# Sistema de Caixa Eletrônico em Python
 
 ## Descrição
 
