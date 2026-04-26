@@ -7,7 +7,6 @@ class Cliente:
 
         self._nome = nome
 
-    # Getters (Encapsulation)
     def get_id(self):
         return self._id
 
