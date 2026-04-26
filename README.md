@@ -33,7 +33,7 @@ banco/
 ├── operacoes/
 ├── historico/
 ├── sistema/
-├── utils/
+├── validacao/
 └── main.py
 ```
 
